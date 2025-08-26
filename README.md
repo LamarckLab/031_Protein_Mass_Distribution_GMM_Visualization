@@ -1,9 +1,11 @@
 ## Lamarck &nbsp; &nbsp; &nbsp; 2025-8-26
 #### Python实现高斯混合模型可视化
 ---
+```
+输入文件目录：C:\Users\Lamarck\Desktop\input.csv
+列名：data
+```
 
-*输入文件目录：C:\Users\Lamarck\Desktop\input.csv*
-*列名：data*
 ```python
 # -*- coding: utf-8 -*-
 
